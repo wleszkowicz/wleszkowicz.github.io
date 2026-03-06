@@ -7,6 +7,6 @@ Na razie trzymam to w formie niedojrzałości. Możliwe, że mnie cofa, bo i tak
 Zobaczyłem, ogłoszenie na Junior Data Analyst w Ultimo, to moja szansa, muszę się przygotować.
 Nie wiem jak mocno udarza moja umiejętność iluzji i zaprzeczeń, ale jak to wyjdzie to podskoczę z radości : D 
 
-https://careers.b2-impact.pl/jobs/7183764-junior-data-analyst.
+[Oferta analityka junior](https://careers.b2-impact.pl/jobs/7183764-junior-data-analyst)
 
 Hmmm będę numerować wpisy, jeszcze nie mam pomysłu jak #TODO
