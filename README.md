@@ -1,3 +1,3 @@
-# Your blog
+# Blog progresów i bilansów
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+W tym miejscy będą zabierać się codziennie wpisy odnośnie postępów jakie zostały dokonane w danym dniu. Osobiste przemyślenia, uczucia, żale, powątpiewania. Robie to w celu odciążenia umysłu, niemagazynowania wszystkiego w głowie, ale tutaj w blogu dla zdrowia psychicznego, obserwacji siebie.
